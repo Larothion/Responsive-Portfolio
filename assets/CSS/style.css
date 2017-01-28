@@ -55,7 +55,7 @@ a, a:visited, a:hover, a:focus, a:active  {
 }
 section {
 	width: 650px;
-	border: 1px solid #cccccc;
+	border: 2px solid #cccccc;
 	background-color: #ffffff;
 	margin: 20px;
 	margin-top: 40px;
@@ -125,7 +125,7 @@ footer {
   transform: rotate(-10deg);
 }
 
-@media screen and (max-width:1250px) {
+@media screen and (max-width:1550px) {
 	section {
 		width: 40%;
 	}
@@ -199,10 +199,15 @@ footer {
 		background-color: white;
 		right: ;
 	}
+
 	nav p {
 		margin-top: 10%;
-		right:50%;
-		
+		text-align: center;	
+		right: 25%;
+
+	}
+	nav a {
+		margin: 20px;
 	}
 	section p {
 		float: right;
@@ -214,4 +219,5 @@ footer {
 	aside {
 		margin-top: 20px;
 	}
+	
 }
