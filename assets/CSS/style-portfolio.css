@@ -250,6 +250,13 @@ footer {
 		top: 80%;
 		left: 12.8%;
 	}
+	.text-trivia {
+		top: 80%;
+		left: 13%;
+	}
+	.text-rps {
+		left: 12.9%;
+	}
 
 }
 
@@ -281,6 +288,17 @@ footer {
 	}
 	aside h3 {
 		text-align: left;
+	}
+	.text-hangman {
+		top: 65%;
+		left: 6%;
+	}
+	.text-trivia {
+		top: 65%;
+		left: 6%;
+	}
+	.text-rps {
+		left: 6%;
 	}
 	
 }
@@ -320,5 +338,50 @@ footer {
 	aside {
 		margin-top: 20px;
 	}
-	
+	.container-rpg {
+		width: 100%;
+		right: 5%;
+	}
+	.text-rpg {
+		width: 86.5%;
+		left: 10.6%;
+		top: 80%;
+	}
+	.container-hangman {
+		width: 100%;
+		right: 5%;
+	}
+	.text-hangman {
+		width: 86.5%;
+		left: 10.6%;
+		top: 90%;
+	}
+	.container-rutgers {
+		width: 100%;
+		right: 5%;
+	}
+	.text-rutgers {
+		width: 90%;
+		left: 10.6%;
+		top: 80%;
+	}
+	.container-trivia {
+		width: 100%;
+		right: 5%;
+	}
+	.text-trivia {
+		width: 86.5%;
+		left: 10.6%;
+		top: 90%;
+	}
+	.container-rps {
+		width: 100%;
+		right: 5%;
+	}
+	.text-rps {
+		width: 90%;
+		left: 10.6%;
+		top: 80%;
+	}
+
 }
